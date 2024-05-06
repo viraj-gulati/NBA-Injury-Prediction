@@ -9,7 +9,7 @@
 This project employs advanced machine learning techniques to predict injuries in NBA players. Utilizing multiple data sources and complex models including METIC and RNN, the goal is to improve injury prediction accuracy, thereby informing better player management and health strategies.
 
 ## Repository Structure
-- `ADTS_Project.ipynb`: Core project Jupyter notebook.
+- `NBA_Pred_Adv_Project.ipynb`: Core project Jupyter notebook.
 - `data/`: Contains all datasets used in the project, including player performance and injury records.
 - `README.md`: Project overview and setup guide.
 
