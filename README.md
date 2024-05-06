@@ -16,10 +16,10 @@ This project leverages advanced machine learning techniques to predict injuries 
 ## Additional Resources
 
 ### Presentation
-For a detailed walkthrough of our project findings and methodologies, view our [Presentation Slides](https://docs.google.com/presentation/d/1HklDYnA65y5d8_ysRnkMOqRaZeJLNbQR2kbdxoL-BxM/edit?usp=sharing). These slides provide visuals and deeper insights into our predictive models and the outcomes of our analyses.
+For a detailed walkthrough of our project findings and methodologies, view our [Presentation Slides](https://docs.google.com/presentation/d/1HklDYnA65y5d8_ysRnkMOqRaZeJLNbQR2kbdxoL-BxM/edit?usp=sharing). 
 
 ### Milestone 3 Documentation
-To see a comprehensive breakdown of our project's Milestone 3, including detailed discussions on our data analysis, model refinements, and key insights, refer to our [Milestone 3 Document](https://drive.google.com/file/d/1k0akDl_AL3KWO0Y5yI_xe8nEFfnCCiqt/view?usp=sharing). This document includes all technical details and the project's progress updates.
+To see a comprehensive breakdown of our project's Milestone 3, including detailed discussions on our data analysis, model refinements, and key insights, refer to our [Milestone 3 Document](https://drive.google.com/file/d/1k0akDl_AL3KWO0Y5yI_xe8nEFfnCCiqt/view?usp=sharing). 
 
 
 ## Data Collection and Cleaning
