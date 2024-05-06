@@ -6,26 +6,39 @@
 - Michael Del Rosa (mfd9268@nyu.edu)
 
 ## Project Overview
-This project employs advanced machine learning techniques to predict injuries in NBA players. Utilizing multiple data sources and complex models including METIC and RNN, the goal is to improve injury prediction accuracy, thereby informing better player management and health strategies.
+This project leverages advanced machine learning techniques to predict injuries among NBA players, aiming to improve the accuracy of such predictions. By analyzing historical data on player injuries and performance metrics, we apply sophisticated models to foresee potential injuries. This not only helps in better player management but also informs strategic decisions in sports medicine and team planning.
 
 ## Repository Structure
-- `NBA_Pred_Adv_Project.ipynb`: Core project Jupyter notebook.
-- `data/`: Contains all datasets used in the project, including player performance and injury records.
-- `README.md`: Project overview and setup guide.
+- `NBA_Pred_Adv_Project.ipynb`: The core Jupyter notebook containing all data analysis, model training, and evaluation.
+- `data/`: Directory housing all the datasets used in the project, which include player performance metrics and recorded injuries.
+- `README.md`: Provides an overview of the project
+
+## Additional Resources
+
+### Presentation
+For a detailed walkthrough of our project findings and methodologies, view our [Presentation Slides](https://docs.google.com/presentation/d/1HklDYnA65y5d8_ysRnkMOqRaZeJLNbQR2kbdxoL-BxM/edit?usp=sharing). These slides provide visuals and deeper insights into our predictive models and the outcomes of our analyses.
+
+### Milestone 3 Documentation
+To see a comprehensive breakdown of our project's Milestone 3, including detailed discussions on our data analysis, model refinements, and key insights, refer to our [Milestone 3 Document](https://drive.google.com/file/d/1k0akDl_AL3KWO0Y5yI_xe8nEFfnCCiqt/view?usp=sharing). This document includes all technical details and the project's progress updates.
+
 
 ## Data Collection and Cleaning
-Data was collected from various sports transaction records and processed using Python. Key steps involved:
-- Fetching last year's player injuries.
-- Cleaning and preprocessing data to handle missing values and standardize entries.
-- Merging data from multiple sources to create a comprehensive dataset for analysis.
+We collected data from multiple reliable sources, including sports transaction records and player performance databases. Here’s how we managed the data:
+- **Acquisition**: Data was initially acquired from public sports databases that track detailed player activities and injury reports over the seasons.
+- **Preprocessing**: To ensure data quality, we implemented several preprocessing steps:
+  - **Cleaning**: Involved removing duplicates, handling missing values, and correcting anomalies in the data.
+  - **Standardization**: All data entries were standardized to ensure uniformity, particularly important for time-series analysis.
+  - **Merging**: Multiple data sources were combined to create a comprehensive dataset that provides a holistic view of player histories and injury records.
 
 ## Models Used
 ### METIC Model
-- Combines LSTM and RNN techniques.
-- Analyzes sequential game data alongside player statistics.
+- **Concept**: The METIC model is a hybrid approach that integrates Long Short-Term Memory (LSTM) networks with Recurrent Neural Networks (RNNs) to analyze sequential and time-series data effectively.
+- **Application**: This model specifically looks at game-by-game performance data and injury history to predict the likelihood of future injuries.
 
 ### RNN Model
-- Specializes in processing time-series data to capture temporal dynamics of injuries.
+- **Concept**: Focused solely on the temporal dynamics of player data, the RNN model excels in identifying patterns over time that precede injuries.
+- **Implementation**: Utilizes layers of RNNs to process sequences of game performance metrics, learning from past outcomes to predict future risks.
 
 ## Key Results
-- Both models demonstrate high accuracy in injury prediction, with detailed performance metrics discussed in our results section.
+- **Performance**: Both models demonstrated high predictive accuracy in our tests. The METIC model was particularly effective in capturing complex patterns in injury-prone data, while the RNN model provided robust predictions across different players and seasons.
+- **Insights**: Detailed performance metrics, such as precision, recall, and F1-score for each model, are discussed extensively in our results section. These metrics help evaluate the effectiveness of each model in real-world scenarios.
