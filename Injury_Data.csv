@@ -1,0 +1,489 @@
+,Player,Days Since Last Injury,Got Injured,core,upper body,ligament,foot,back
+0, (Sean) Chris Smith,284,0,0,0,0,0,0
+1, A.J. Green,64,0,0,0,0,0,0
+2, Aaron Gordon,5,0,0,0,0,1,0
+3, Aaron Holiday,310,0,0,0,0,0,0
+4, Aaron Nesmith,9,0,0,0,0,1,0
+5, Aaron Wiggins,294,0,0,0,0,0,0
+6, Admiral Schofield,90,1,0,0,0,0,0
+7, Al Horford,27,0,0,0,0,0,3
+8, Alec Burks,74,0,0,0,0,1,0
+9, Aleksej Pokusevski,3,1,0,0,0,0,0
+10, Alex Caruso,21,0,0,0,0,0,2
+11, Alex Len,271,1,0,0,0,0,2
+12, Alondes Williams,32,0,0,0,0,0,0
+13, Alperen Sengun,69,1,0,0,0,0,0
+14, Andre Drummond,64,0,0,0,0,0,0
+15, Andre Iguodala,74,1,0,0,0,0,3
+16, Andrew Nembhard,41,0,0,0,0,0,0
+17, Andrew Wiggins,27,1,0,0,0,2,1
+18, Anfernee Simons,58,0,0,0,0,1,0
+19, Anthony Davis,14,1,0,0,0,3,1
+20, Anthony Edwards,303,0,0,0,0,0,0
+21, Anthony Gill,364,0,0,0,0,0,0
+22, Anthony Lamb,284,1,0,0,0,0,0
+23, Armoni Brooks,357,0,0,0,0,0,0
+24, Austin Reaves,13,0,0,0,0,0,0
+25, Austin Rivers,53,0,0,0,0,0,0
+26, Avery Bradley,320,0,0,0,0,0,0
+27, Ayo Dosunmu,327,0,0,0,0,0,0
+28, Ben Simmons,22,0,0,0,0,0,1
+29, Blake Griffin,3,0,0,0,0,0,0
+30, Blake Wesley,61,0,0,0,0,0,0
+31, Bobby Portis,266,0,0,0,0,0,0
+32, Bogdan Bogdanovic,77,1,0,0,0,0,0
+33, Bojan Bogdanovic,35,0,0,0,0,0,0
+34, Bol Bol,292,1,0,0,0,2,0
+35, Bradley Beal,4,1,0,0,0,0,0
+36, Brandon Boston Jr. / B.J. Boston Jr.,282,0,0,0,0,0,0
+37, Brandon Clarke,283,0,0,0,0,0,1
+38, Brandon Ingram,35,1,0,0,0,0,0
+39, Brandon Knight,268,1,0,0,0,0,0
+40, Brandon Williams (b. 1975-02-27),272,0,0,0,0,0,0
+41, Brodric Thomas,364,0,0,0,0,0,1
+42, Brook Lopez,267,0,0,0,0,0,2
+43, Bruce Brown,4,0,0,0,0,0,0
+44, Bruno Fernando,24,1,0,0,0,0,0
+45, C.J. Elleby,338,0,0,0,0,0,0
+46, C.J. McCollum,39,0,0,0,0,0,0
+47, Cade Cunningham,50,1,0,0,0,0,0
+48, Caleb Martin,2,1,0,0,0,0,0
+49, Cam Reddish,42,0,0,0,0,0,0
+50, Cameron Johnson,57,1,0,0,0,0,0
+51, Cameron McGriff,364,0,0,0,0,0,0
+52, Cameron Oliver,361,0,0,0,0,0,0
+53, Cameron Payne,17,1,0,0,0,2,0
+54, Cameron Thomas / Cam Thomas,292,0,0,0,0,0,1
+55, Caris LeVert,41,0,0,0,0,1,0
+56, Carmelo Anthony,269,1,0,0,0,0,1
+57, Cedi Osman,3,0,0,0,0,0,1
+58, Charles Bassey,258,0,0,0,0,0,0
+59, Chaundee Brown Jr.,266,1,0,0,0,0,0
+60, Chet Holmgren,129,1,0,0,0,1,0
+61, Chima Moneke,34,0,0,0,0,0,0
+62, Chimezie Metu,341,0,0,0,0,0,0
+63, Chris Boucher,74,0,0,0,0,0,0
+64, Chris Clemons,360,0,0,0,0,0,0
+65, Chris Duarte,55,0,0,0,0,0,0
+66, Chris Paul,36,0,0,0,0,0,0
+67, Chris Silva,330,0,0,0,0,0,0
+68, Christian Wood,29,0,0,0,0,0,0
+69, Chuma Okeke,290,0,0,0,0,0,0
+70, Clint Capela,5,1,0,0,0,0,0
+71, Coby White,61,1,0,0,0,0,0
+72, Cody Martin,328,0,0,0,0,0,0
+73, Cody Zeller,341,0,0,0,0,0,0
+74, Cole Anthony,66,1,0,0,0,0,0
+75, Cole Swider,73,0,0,0,0,1,0
+76, Collin Gillespie,74,1,0,0,0,0,0
+77, Collin Sexton,24,0,0,0,0,0,0
+78, Corey Kispert,74,0,0,0,0,0,0
+79, Cory Joseph,48,0,0,0,0,0,0
+80, D'Angelo Russell,18,0,0,0,0,0,0
+81, D.J. Wilson,306,0,0,0,0,0,0
+82, Daishen Nix,74,0,0,0,0,0,1
+83, Dalano Banton,36,0,0,0,0,0,0
+84, Damian Jones,357,0,0,0,0,0,0
+85, Damian Lillard,57,0,0,0,0,0,0
+86, Damyean Dotson,358,0,0,0,0,0,0
+87, Daniel Gafford,282,0,0,0,0,0,0
+88, Daniel Theis,74,1,0,0,0,0,0
+89, Danilo Gallinari,100,1,0,0,0,0,0
+90, Danny Green,74,1,0,0,0,0,0
+91, Danuel House Jr.,21,0,0,0,0,2,0
+92, Darius Bazley,13,1,0,0,0,0,0
+93, Darius Garland,70,0,0,0,0,0,3
+94, David Duke Jr.,35,0,0,0,0,0,0
+95, David Johnson (Ricardo),289,0,0,0,0,0,0
+96, Davion Mitchell,319,0,0,0,0,0,0
+97, Davis Bertans,74,0,0,0,0,2,0
+98, Davon Reed,65,0,0,0,0,0,0
+99, Day'Ron Sharpe,32,1,0,0,0,0,0
+100, De'Aaron Fox,61,0,0,0,0,0,0
+101, De'Andre Hunter,5,1,0,0,0,0,0
+102, De'Anthony Melton,19,0,0,0,0,0,2
+103, DeAndre Jordan,303,0,0,0,0,0,0
+104, DeAndre' Bembry,294,0,0,0,0,0,2
+105, DeMar DeRozan,283,0,0,0,0,0,0
+106, DeMarcus Cousins,336,0,0,0,0,1,0
+107, Dean Wade,28,1,0,0,0,0,0
+108, Deandre Ayton,17,0,0,0,0,0,0
+109, Dejounte Murray,24,0,0,0,0,0,0
+110, Delon Wright,66,0,0,0,0,0,0
+111, Deni Avdija,10,0,0,0,0,0,1
+112, Dennis Schröder,77,0,0,0,0,0,0
+113, Dennis Smith Jr.,48,1,0,0,0,0,0
+114, Derrick Favors,276,1,0,0,0,0,6
+115, Derrick Jones Jr.,11,1,0,0,0,0,0
+116, Derrick Rose,41,0,0,0,0,0,0
+117, Derrick Walton Jr.,364,0,0,0,0,0,0
+118, Derrick White,227,0,0,0,0,0,0
+119, Desmond Bane,49,0,0,0,0,0,0
+120, Devin Booker,5,1,0,0,0,0,1
+121, Devin Vassell,3,1,0,0,0,0,0
+122, Devontae Cacok,298,0,0,0,0,0,0
+123, Devonte' Graham,266,0,0,0,0,0,0
+124, Dewayne Dedmon,6,1,0,0,0,6,1
+125, Dillon Brooks,74,0,0,0,0,0,0
+126, Domantas Sabonis,5,0,0,0,0,0,0
+127, Donovan Mitchell,22,0,0,0,0,0,1
+128, Donte DiVincenzo,12,0,0,0,0,0,0
+129, Dorian Finney-Smith,11,1,0,0,0,0,0
+130, Doug McDermott,5,0,0,0,0,0,0
+131, Draymond Green,25,0,0,0,0,0,3
+132, Drew Eubanks,37,0,0,0,0,0,1
+133, Duane Washington Jr.,27,0,0,0,0,0,0
+134, Duncan Robinson,44,0,0,0,0,0,0
+135, Dwight Howard,293,0,0,0,0,0,2
+136, Dwight Powell,13,0,0,0,0,0,0
+137, Dylan Windler,74,0,0,0,0,0,0
+138, E.J. Liddell,159,1,0,0,0,0,0
+139, Edmond Sumner,28,0,0,0,0,0,0
+140, Edrice Adebayo / Bam Adebayo,6,0,0,0,0,0,0
+141, Elijah Hughes,302,0,0,0,0,0,0
+142, Eric Bledsoe,330,1,0,0,0,0,0
+143, Eric Gordon,5,0,0,0,0,0,0
+144, Evan Fournier,358,0,0,0,0,0,0
+145, Evan Mobley,278,0,0,0,0,0,0
+146, Facundo Campazzo,281,0,0,0,0,0,0
+147, Frank Jackson,304,0,0,0,0,0,2
+148, Frank Ntilikina,7,0,0,0,0,0,0
+149, Franz Wagner,270,1,0,0,0,0,0
+150, Fred VanVleet,3,1,0,0,0,0,2
+151, Furkan Korkmaz,43,0,0,0,0,0,0
+152, Gabe Vincent,26,0,0,0,0,0,0
+153, Garrett Temple,55,0,0,0,0,0,0
+154, Gary Harris,30,0,0,0,0,0,1
+155, Gary Payton II,80,1,1,0,0,0,1
+156, Gary Trent Jr.,14,0,0,0,0,0,0
+157, George Hill,0,1,0,0,0,0,0
+158, Georges Niang,27,0,0,0,0,1,0
+159, Giannis Antetokounmpo,0,1,0,0,0,0,0
+160, Goga Bitadze,272,1,0,0,0,6,0
+161, Goran Dragic,11,1,0,0,0,0,0
+162, Gordon Hayward,34,0,0,0,0,2,0
+163, Gorgui Dieng,312,0,0,0,0,0,0
+164, Grayson Allen,27,0,0,0,0,1,0
+165, Greg Brown III,47,1,0,0,0,0,0
+166, Greg Monroe,361,0,0,0,0,0,0
+167, Guillermo Hernangomez / Willy Hernangomez,332,0,0,0,0,0,0
+168, Hamidou Diallo,297,1,0,0,0,0,0
+169, Hassan Whiteside,282,0,0,0,0,1,1
+170, Heat,41,1,0,0,0,0,0
+171, Herbert Jones / Herb Jones (Keyshawn),6,0,0,0,0,0,0
+172, Isaac Bonga,268,0,0,0,0,0,0
+173, Isaac Okoro,363,0,0,0,0,0,0
+174, Isaiah Jackson,39,1,0,0,0,0,0
+175, Isaiah Joe,238,0,0,0,0,0,1
+176, Isaiah Livers,28,1,0,0,0,0,0
+177, Isaiah Roby,60,0,0,0,0,0,1
+178, Isaiah Stewart,45,0,0,0,0,0,0
+179, Isaiah Todd,28,0,0,0,0,0,0
+180, Ishmael Smith / Ish Smith,59,0,0,0,0,0,0
+181, Ishmail Wainright / Ish Wainright,61,0,0,0,0,0,1
+182, Ivica Zubac,17,0,0,0,0,0,0
+183, J.D. Davison,39,1,0,0,0,0,0
+184, Ja Morant,20,0,0,0,0,0,1
+185, JaMychal Green,12,1,0,0,0,0,0
+186, JaVale McGee,47,0,0,0,0,0,0
+187, Jaden Ivey,35,0,0,0,0,0,0
+188, Jaden McDaniels,35,0,0,0,0,0,0
+189, Jaden Springer,40,1,0,0,0,0,0
+190, Jae Crowder,266,0,0,0,0,0,0
+191, Jae'Sean Tate,62,1,0,0,0,0,0
+192, Jake LaRavia,32,0,0,0,0,1,0
+193, Jakob Poeltl,32,1,0,0,0,0,6
+194, Jalen Brunson,3,1,0,0,0,1,0
+195, Jalen Duren,62,0,0,0,0,0,0
+196, Jalen Johnson,34,0,0,0,0,0,0
+197, Jalen McDaniels,298,0,0,0,0,0,0
+198, Jalen Smith,25,0,0,0,0,0,0
+199, Jalen Suggs,35,1,0,0,0,0,0
+200, Jamal Murray,4,0,0,0,0,0,0
+201, James Bouknight,307,0,0,0,0,0,0
+202, James Harden,59,0,0,0,0,1,0
+203, James Johnson,22,0,0,0,0,0,0
+204, Jamorko Pickett,336,0,0,0,0,0,0
+205, Jared Butler,311,0,0,0,0,0,0
+206, Jaren Jackson Jr.,27,0,0,0,0,4,0
+207, Jarred Vanderbilt,56,0,0,0,0,0,0
+208, Jarrett Allen,35,0,0,0,0,0,1
+209, Jarrett Culver,5,0,0,0,0,0,0
+210, Javonte Green,14,0,0,0,0,1,0
+211, Javonte Smart,273,0,0,0,0,0,0
+212, Jaxson Hayes,74,0,0,0,0,0,0
+213, Jay Scrubb,326,1,0,0,0,1,0
+214, Jaylen Brown,34,0,0,0,0,0,0
+215, Jaylen Hoard,361,0,0,0,0,0,0
+216, Jaylen Nowell,353,0,0,0,0,0,0
+217, Jayson Tatum,14,0,0,0,0,0,0
+218, Jeff Green,7,1,0,0,0,0,0
+219, Jerami Grant,53,0,0,0,0,0,0
+220, Jeremiah Robinson-Earl,18,1,0,0,0,1,0
+221, Jeremy Lamb,293,0,0,0,0,0,0
+222, Jeremy Sochan,32,0,0,0,0,0,0
+223, Jimmy Butler,6,0,0,0,0,0,0
+224, Jock Landale,13,0,0,0,0,1,1
+225, Joe Harris,9,1,0,0,0,1,0
+226, Joe Ingles,73,0,0,0,0,0,0
+227, Joe Wieskamp,295,0,0,0,0,0,0
+228, Joel Embiid,40,0,0,0,0,1,1
+229, John Butler Jr.,28,1,0,0,0,0,0
+230, John Collins (Martin),31,0,0,0,0,2,0
+231, John Konchar,27,0,0,0,0,0,0
+232, John Wall (Hildred),5,0,0,0,0,0,0
+233, Johnny Davis (Christian),37,0,0,0,0,0,0
+234, Johnny Juzang,39,0,0,0,0,0,0
+235, Jonas Valanciunas,266,0,0,0,0,0,0
+236, Jonathan Kuminga,46,1,0,0,0,0,0
+237, Jordan Clarkson,331,0,0,0,0,0,1
+238, Jordan McLaughlin,39,0,0,0,0,0,0
+239, Jordan Nwora,259,0,0,0,0,0,1
+240, Jose Alvarado,17,0,0,0,0,0,0
+241, Josh Giddey,13,1,0,0,0,0,0
+242, Josh Green,20,1,0,0,0,0,0
+243, Josh Hart,32,0,0,0,0,0,0
+244, Josh Jackson,279,0,0,0,0,0,1
+245, Josh Okogie,12,0,0,0,0,0,0
+246, Josh Richardson,39,0,0,0,0,0,1
+247, Joshua Primo,67,1,0,0,0,0,0
+248, Jrue Holiday,4,1,0,0,0,0,0
+249, Juan Toscano-Anderson,21,0,0,0,0,0,1
+250, Juancho Hernangomez / Juan Hernangomez,27,1,0,0,0,0,0
+251, Julius Randle,273,1,0,0,0,0,0
+252, Justin Anderson,359,0,0,0,0,0,0
+253, Justin Champagnie,53,0,0,0,0,0,1
+254, Justin Holiday,32,0,0,0,0,0,0
+255, Justin Jackson (Aaron),355,0,0,0,0,0,0
+256, Justise Winslow,9,1,0,0,0,0,0
+257, Jusuf Nurkic,2,1,0,0,0,1,0
+258, Juwan Morgan,272,0,0,0,0,0,0
+259, Kai Jones,354,0,0,0,0,0,0
+260, Karl-Anthony Towns,32,1,0,0,0,0,0
+261, Kawhi Leonard,6,0,0,0,0,0,0
+262, Keegan Murray,45,0,0,0,0,0,1
+263, Keita Bates-Diop,24,0,0,0,0,1,2
+264, Keldon Johnson,13,0,0,0,0,0,1
+265, Kelly Olynyk,13,0,0,0,0,0,0
+266, Kelly Oubre Jr.,5,0,0,0,0,0,0
+267, Kemba Walker,7,0,0,0,0,0,0
+268, Kendall Brown,20,1,0,0,0,0,0
+269, Kenrich Williams,27,0,0,0,0,0,0
+270, Kentavious Caldwell-Pope,65,0,0,0,0,0,0
+271, Keon Johnson,330,0,0,0,0,0,0
+272, Kevin Durant,350,0,0,0,0,0,0
+273, Kevin Huerter,18,0,0,0,0,0,0
+274, Kevin Love,39,0,0,0,0,0,0
+275, Kevin Porter Jr.,44,0,0,0,0,0,1
+276, Khem Birch,9,0,0,0,0,0,0
+277, Khris Middleton,15,1,0,0,2,0,0
+278, Killian Hayes,288,0,0,0,0,0,0
+279, Killian Tillie,289,1,0,0,0,0,1
+280, Kira Lewis Jr.,74,1,0,0,0,0,0
+281, Klay Thompson,4,0,0,0,0,0,0
+282, Kris Dunn,268,0,0,0,0,0,0
+283, Kristaps Porzingis,10,0,0,0,0,0,1
+284, Kyle Anderson,11,0,0,0,0,0,4
+285, Kyle Kuzma,35,0,0,0,0,0,1
+286, Kyle Lowry,4,0,0,0,0,0,0
+287, Kyrie Irving,11,0,0,0,0,0,0
+288, LaMarcus Aldridge,300,0,0,0,0,2,0
+289, LaMelo Ball,82,1,0,0,0,0,0
+290, Lamar Stevens,11,0,0,0,0,0,0
+291, Lance Stephenson,301,0,0,0,0,0,0
+292, Landry Shamet,5,1,0,0,0,0,0
+293, Langston Galloway,353,0,0,0,0,0,0
+294, Larry Nance Jr.,2,1,0,0,0,0,0
+295, Lauri Markkanen,25,0,0,0,0,0,0
+296, LeBron James,13,0,0,0,0,0,0
+297, Leandro Bolmaro,39,0,0,0,0,0,0
+298, Lindell Wigginton,298,0,0,0,0,0,0
+299, Lonnie Walker IV,55,0,0,0,0,0,3
+300, Lonzo Ball,122,1,0,0,0,0,0
+301, Louis Williams / Lou Williams,270,1,0,0,0,0,2
+302, Luca Vildoza,252,0,0,0,0,0,0
+303, Luguentz Dort,25,0,0,0,0,0,0
+304, Luka Doncic,264,0,0,0,0,0,0
+305, Luka Garza,276,0,0,0,0,0,0
+306, Luke Kennard,17,0,0,0,0,0,0
+307, Luke Kornet,55,0,0,0,0,0,0
+308, Malachi Flynn,301,0,0,0,0,0,0
+309, Malaki Branham,48,1,0,0,0,0,0
+310, Malcolm Brogdon,3,0,0,0,0,0,1
+311, Malik Beasley,281,0,0,0,0,0,0
+312, Malik Fitts,358,0,0,0,0,0,0
+313, Malik Monk,338,0,0,0,0,0,0
+314, MarJon Beauchamp,32,0,0,0,0,0,0
+315, Marcos Louzada Silva / Didi Louzada Silva / Didi Louzada,343,0,0,0,0,0,0
+316, Marcus Garrett,351,0,0,0,0,0,0
+317, Marcus Morris,25,1,0,0,0,0,0
+318, Marcus Smart,11,0,0,0,0,1,0
+319, Mark Williams,46,0,0,0,0,0,0
+320, Markelle Fultz,74,0,0,0,0,0,0
+321, Markieff Morris,69,0,0,0,0,0,0
+322, Markus Howard,343,0,0,0,0,0,0
+323, Marquese Chriss,268,0,0,0,0,0,0
+324, Marvin Bagley III,6,0,0,0,0,0,0
+325, Matisse Thybulle,37,0,0,0,0,0,0
+326, Matt Mooney,362,0,0,0,0,0,0
+327, Matt Thomas,274,1,0,0,0,0,0
+328, Maurice Harkless / Moe Harkless,300,0,0,0,0,0,0
+329, Max Christie,42,1,0,0,0,0,0
+330, Max Strus,39,0,0,0,0,0,0
+331, Maximilian Kleber / Maxi Kleber,18,1,0,0,0,0,1
+332, McKinley Wright IV,329,0,0,0,0,0,0
+333, Michael Porter Jr.,39,0,0,0,0,0,1
+334, Mike Conley Jr.,42,1,0,0,0,0,0
+335, Mike Muscala,39,0,0,0,0,0,0
+336, Miles McBride,266,1,0,0,0,0,0
+337, Mitchell Robinson,57,0,0,0,0,0,2
+338, Miye Oni,361,0,0,0,0,0,0
+339, Mohamed Bamba / Mo Bamba,32,0,0,0,0,0,2
+340, Monte Morris,22,0,0,0,0,0,0
+341, Moritz Wagner / Moe Wagner,74,1,0,0,0,1,0
+342, Moses Moody,287,0,0,0,0,0,0
+343, Moussa Diabate,11,1,0,0,0,0,0
+344, Myles Turner,27,0,0,0,0,1,0
+345, Nah'Shon Hyland / Bones Hyland,39,0,0,0,0,0,0
+346, Naji Marshall,34,0,0,0,0,0,0
+347, Nassir Little,32,1,0,0,0,0,0
+348, Nate Hinton,267,1,0,0,0,0,0
+349, Naz Reid,49,0,0,0,0,0,1
+350, Neemias Queta,361,0,0,0,0,0,0
+351, Nemanja Bjelica,291,0,0,0,0,0,2
+352, Nerlens Noel,33,1,0,0,0,1,0
+353, Nick Richards,6,1,0,0,0,2,0
+354, Nicolas Batum,266,1,0,0,0,0,1
+355, Nicolas Claxton / Nic Claxton,23,0,0,0,0,0,0
+356, Nik Stauskas,275,0,0,0,0,0,0
+357, Nikola Jokic,46,0,0,0,0,0,0
+358, Nikola Vucevic,300,0,0,0,0,0,0
+359, Norman Powell,32,0,0,0,0,2,0
+360, Norvel Pelle,354,0,0,0,0,0,0
+361, Obi Toppin,303,0,0,0,0,0,0
+362, Ogugua Anunoby / O.G. Anunoby,18,0,0,0,0,0,0
+363, Olivier Sarr,74,1,0,0,0,0,0
+364, Omer Yurtseven,47,1,0,0,0,0,0
+365, Onyeka Okongwu,305,0,0,0,0,0,0
+366, Oshae Brissett,279,0,0,0,0,0,1
+367, Otto Porter Jr.,46,1,0,0,0,7,4
+368, Ousmane Dieng,13,1,0,0,0,0,0
+369, P.J. Tucker,269,0,0,0,0,0,0
+370, P.J. Washington,16,0,0,0,0,0,0
+371, Paolo Banchero,51,0,0,0,0,0,0
+372, Pascal Siakam,57,1,0,0,0,0,0
+373, Pat Connaughton,73,0,0,0,0,0,0
+374, Patrick Baldwin Jr.,49,0,0,0,0,0,1
+375, Patrick Beverley,14,1,0,0,0,0,0
+376, Patrick Mills / Patty Mills,11,1,0,0,0,0,0
+377, Paul George,17,0,0,0,0,0,0
+378, Paul Millsap,266,0,0,0,0,0,0
+379, Paul Reed,362,0,0,0,0,0,0
+380, Payton Pritchard,5,0,0,0,0,0,0
+381, Petr Cornelie,359,0,0,0,0,0,0
+382, Peyton Watson,5,1,0,0,0,0,0
+383, Precious Achiuwa,52,1,0,0,1,0,0
+384, Quentin Grimes,11,0,0,0,0,1,0
+385, Quinndary Weatherspoon,274,0,0,0,0,0,0
+386, R.J. Barrett,3,1,0,0,0,0,0
+387, R.J. Hampton,346,0,0,0,0,0,0
+388, Rajon Rondo,293,0,0,0,0,0,0
+389, Raulzinho Neto / Raul Neto,60,0,0,0,0,0,0
+390, Reggie Bullock,3,0,0,0,0,0,0
+391, Reggie Jackson (Shon),17,0,0,0,0,0,0
+392, Reggie Perry,329,0,0,0,0,0,0
+393, Richaun Holmes,45,0,0,0,0,0,2
+394, Ricky Rubio,74,1,0,0,0,0,0
+395, Rob Edwards,361,0,0,0,0,0,0
+396, Robert Covington,63,0,0,0,0,0,0
+397, Robert Williams III,9,0,0,0,0,0,0
+398, Robert Woodard II,354,0,0,0,0,0,0
+399, Robin Lopez,6,0,0,0,0,0,0
+400, Rodney Hood,338,0,0,0,0,0,0
+401, Rodney McGruder,272,0,0,0,0,0,0
+402, Romeo Langford,48,0,0,0,0,0,0
+403, Royce O'Neale,270,0,0,0,0,0,0
+404, Ruben Nembhard / R.J. Nembhard Jr.,281,0,0,0,0,0,0
+405, Rudy Gay,47,0,0,0,0,0,0
+406, Rudy Gobert,14,0,0,0,0,1,0
+407, Rui Hachimura,42,0,0,0,0,0,0
+408, Russell Westbrook,13,1,0,0,0,1,1
+409, Ryan Arcidiacono,32,0,0,0,0,0,0
+410, Saddiq Bey,43,0,0,0,0,0,0
+411, Sam Hauser,240,0,0,0,0,0,0
+412, Sandro Mamukelashvili,60,0,0,0,0,0,0
+413, Santi Aldama,37,0,0,0,0,1,0
+414, Scottie Barnes,39,0,0,0,0,0,0
+415, Scotty Hopson,361,0,0,0,0,0,0
+416, Sekou Doumbouya,348,0,0,0,0,0,0
+417, Serge Ibaka,17,1,0,0,0,0,0
+418, Seth Curry,6,0,0,0,0,0,1
+419, Shai Gilgeous-Alexander,32,0,0,0,0,0,0
+420, Shake Milton,362,0,0,0,0,0,1
+421, Skylar Mays,285,0,0,0,0,0,0
+422, Spencer Dinwiddie,277,0,0,0,0,0,0
+423, Stephen Curry,17,1,0,0,0,1,0
+424, Sterling Brown,266,1,0,0,0,1,0
+425, Steven Adams,20,0,0,0,0,0,0
+426, Sviatoslav Mykhailiuk / Svi Mykhailiuk,362,0,0,0,0,0,0
+427, T.J. McConnell,28,0,0,0,0,0,0
+428, T.J. Warren,74,0,0,0,0,1,0
+429, Taj Gibson,2,1,0,0,0,0,0
+430, Talen Horton-Tucker,286,0,0,0,0,0,0
+431, Taurean Prince,264,0,0,0,0,0,0
+432, Terance Mann,24,0,0,0,0,0,0
+433, Terence Davis,25,0,0,0,0,0,2
+434, Terrence Ross,59,1,0,0,0,0,0
+435, Terry Rozier,34,1,0,0,0,0,0
+436, Terry Taylor,324,0,0,0,0,0,0
+437, Thaddeus Young,304,0,0,0,0,0,0
+438, Thanasis Antetokounmpo,365,0,0,0,0,0,0
+439, Theo Pinson,321,0,0,0,0,0,0
+440, Thomas Bryant,74,1,0,0,0,0,1
+441, Tim Hardaway Jr.,13,0,0,0,0,2,0
+442, Tobias Harris,44,0,0,0,0,0,0
+443, Tomas Satoransky,364,0,0,0,0,0,0
+444, Torrey Craig,30,0,0,0,0,0,0
+445, Trae Young,4,0,0,0,0,0,2
+446, Tre Jones,48,0,0,0,0,0,0
+447, Tre Mann,48,0,0,0,0,0,1
+448, Tremont Waters,363,0,0,0,0,0,0
+449, Trendon Watford,74,0,0,0,0,0,0
+450, Trent Forrest,27,1,0,0,0,1,0
+451, Trevelin Queen,357,0,0,0,0,0,0
+452, Trey Burke,278,0,0,0,0,0,0
+453, Trey Lyles,34,0,0,0,0,0,0
+454, Trey Murphy III,6,0,0,0,0,1,0
+455, Tristan Thompson,354,0,0,0,0,0,0
+456, Troy Brown Jr.,75,0,0,0,0,0,1
+457, Ty Jerome,299,1,0,0,0,0,0
+458, TyTy Washington Jr.,74,1,0,0,0,0,0
+459, Tyler Cook,363,0,0,0,0,0,0
+460, Tyler Herro,55,0,0,0,0,0,0
+461, Tyrell Terry,272,1,0,0,0,1,0
+462, Tyrese Haliburton,28,0,0,0,0,0,0
+463, Tyrese Maxey,43,0,0,0,0,1,0
+464, Tyus Jones,266,0,0,0,0,0,0
+465, Udoka Azubuike,74,0,0,0,0,1,0
+466, Udonis Haslem,15,0,0,0,0,0,0
+467, Usman Garuba,290,0,0,0,0,0,0
+468, Vernon Carey Jr.,74,0,0,0,0,0,0
+469, Victor Oladipo,17,0,0,0,0,0,1
+470, Vince Williams Jr.,17,0,0,0,0,0,0
+471, Vit Krejci,350,0,0,0,0,0,0
+472, Vlatko Cancar,362,0,0,0,0,1,0
+473, Walker Kessler,65,0,0,0,0,0,0
+474, Wayne Ellington,289,0,0,0,0,0,0
+475, Wendell Carter Jr.,46,1,0,0,0,1,0
+476, Wenyen Gabriel,26,0,0,0,0,0,0
+477, Wesley Matthews / Wes Matthews Jr.,25,1,0,0,0,0,0
+478, Will Barton,22,0,0,0,0,2,1
+479, Xavier Moon,360,0,0,0,0,0,0
+480, Xavier Tillman,301,0,0,0,0,0,0
+481, Yuta Watanabe,40,0,0,0,0,0,0
+482, Yves Pons,328,0,0,0,0,0,0
+483, Zach Collins,323,0,0,0,0,0,0
+484, Zach LaVine,65,0,0,0,0,0,1
+485, Zeke Nnaji,53,0,0,0,0,0,0
+486, Ziaire Williams,74,1,0,0,0,0,0
+487, Zion Williamson,10,0,0,0,0,1,1
