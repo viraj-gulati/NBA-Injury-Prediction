@@ -11,7 +11,23 @@ This project leverages advanced machine learning techniques to predict injuries 
 ## Repository Structure
 - `NBA_Pred_Adv_Project.ipynb`: The core Jupyter notebook containing all data analysis, model training, and evaluation.
 - `data/`: Directory housing all the datasets used in the project, which include player performance metrics and recorded injuries.
+- `fees-calculator/`: A React TypeScript application for calculating fees and costs. Features a modern UI with real-time calculations, custom fee management, and detailed breakdowns. [View Demo →](fees-calculator/)
 - `README.md`: Provides an overview of the project
+
+## 🧮 Fees Calculator Application
+
+We've also included a comprehensive **Fees Calculator** React application that demonstrates modern web development practices:
+
+### Features:
+- 📊 **Real-time Calculations**: Instant fee calculations as you type
+- 🔧 **Custom Fee Management**: Add, remove, and configure fees
+- 💰 **Multiple Fee Types**: Support for both percentage and fixed fees
+- 📱 **Responsive Design**: Works perfectly on all devices
+- 📋 **Results Export**: Copy calculations to clipboard
+
+![Fees Calculator](https://github.com/user-attachments/assets/83776e2c-83bc-4085-8a96-1ded7ddedc44)
+
+**[→ Try the Live Demo](fees-calculator/)** | **[→ View Source Code](fees-calculator/)**
 
 ## Additional Resources
 

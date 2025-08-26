@@ -1,0 +1,8 @@
+{
+  "name": "fees-calculator",
+  "version": "2.0.0",
+  "public": true,
+  "github": {
+    "silent": true
+  }
+}

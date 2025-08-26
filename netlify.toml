@@ -1,0 +1,9 @@
+[build]
+  base = "fees-calculator"
+  publish = "fees-calculator/build"
+  command = "npm run build"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
